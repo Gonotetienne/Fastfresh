@@ -1,0 +1,73 @@
+body {
+font-family: Overpass;
+color: black;
+font-size: 18px;
+text-align: center;
+}
+
+h1, h2, h3 {
+font-family: beige;
+color: seagreen;
+}
+
+p {
+font-family: 
+color : #FFFF;
+}
+
+<div style="text-align: center;">
+<h1>Titre centré</h1>
+<p>Paragraphe centré</p>
+</div>
+
+<div style="width: 300px; margin: 0 auto;">
+<h1>Titre centré</h1>
+<p>Paragraphe centré</p>
+</div>
+
+a {
+color: #;
+font-weight: bold;
+text-decoration: none;
+transition: .3s;
+}
+
+header {
+background-color: #2E3B45;
+padding: 20px;
+}
+
+.card-white {
+background: #2E3B45;
+box-shadow: 0 0 16px rgba(0,0,0,0.1);
+border-radius: 4px;
+width: 1350px;
+text-align: center;
+padding: 24px;
+margin: 8px;
+color: white;
+}
+
+.card-white img {
+width: 180px;
+height: 180px;
+object-fit: cover;
+border-radius: 4px;
+}
+
+.footer {
+background: #2E3B45;
+text-align: center;
+padding: 24px 0;
+}
+
+.footer p {color: white;
+}
+
+a:hover {color: #CE2FAE;
+
+
+<!-- index.html -->
+<head><!-- [...] --><link href="https://fonts.googleapis.com/css?family=Chivo:700|Overpass:400,700&display=swap" rel="stylesheet">
+<!-- [...] -->
+</head>/* Write some CSS below */
